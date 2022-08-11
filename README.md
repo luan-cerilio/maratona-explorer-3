@@ -1,6 +1,6 @@
 # Maratona Explorer 3
 
-Simple coffee menu developed during RocketSeat's Explorer marathon week. 
+Simple coffee menu developed using HTML & CSS during RocketSeat's "Maratona Explorer" week. 
 
 ## Liszt Ferenc Coffee
 
